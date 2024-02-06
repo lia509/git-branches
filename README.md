@@ -1,0 +1,1 @@
+Site feito pela equipe AlphaTech. A proposta era criar um site para um restaurante, nós escolhemos uma pizzaria. Este foi um projeto do primeiro semestre onde possuíamos pouca pratica com o css e aprendendo a utilizar iframes para header e footer. Com alguns erros perceptíveis, mas que fazem parte do processo.
